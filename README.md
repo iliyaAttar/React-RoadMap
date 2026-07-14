@@ -9,5 +9,5 @@ Tailwind css
 
 Run project :
 
-npm i
+npm i | 
 npm run dev
